@@ -23,11 +23,12 @@ Aplicación Móvil para la verificación de Artículos Extraviados IIT.</br>
 [![2022-01-19-09-28-53.png](https://i.postimg.cc/wBZv7dCD/2022-01-19-09-28-53.png)](https://postimg.cc/mc3R5K2r)
 [![2022-01-19-09-45-17.png](https://i.postimg.cc/C5QY6Cwk/2022-01-19-09-45-17.png)](https://postimg.cc/jnPGD7wS)
 
-Aplicación Móvil con conectividad online está diseñada para el Instituto de IIT, la cual permite el almacenamiento online de una base de datos de los artículos que son extraviados y entregados a los encargados de cobe uacj.</br></br>
+Aplicación Móvil con conectividad online está diseñada para el Instituto de IIT, la cual permite el almacenamiento online de una base de datos de los artículos que son extraviados y entregados a los encargados de cobe uacj, esta aplicacion fue diseñada en lenguaje JAVA mediante Android Studio y mediante el codigo PHP se hace una conectividad a la base de datos elaborada en MySQL.</br></br>
 
 Base de datos Conchita Rosa</br>
 [![2022-01-19-10-17-52.png](https://i.postimg.cc/nrdxXyrv/2022-01-19-10-17-52.png)](https://postimg.cc/GTsVNSk2)
-[![2022-01-19-10-24-29.png](https://i.postimg.cc/KjsY6kPS/2022-01-19-10-24-29.png)](https://postimg.cc/p5zx8dcq)</br>
+[![2022-01-19-10-24-29.png](https://i.postimg.cc/KjsY6kPS/2022-01-19-10-24-29.png)](https://postimg.cc/p5zx8dcq)
+Base de datos creada para un trabajo escolar la cual fue diseñada en MySQL</br>
 
 Juegos HTML</br>
 [![2022-01-19-10-28-37.png](https://i.postimg.cc/Y0Jv4LhN/2022-01-19-10-28-37.png)](https://postimg.cc/30F8VRjW)
