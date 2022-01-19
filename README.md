@@ -27,7 +27,17 @@ Aplicación Móvil con conectividad online está diseñada para el Instituto de 
 
 Base de datos Conchita Rosa</br>
 [![2022-01-19-10-17-52.png](https://i.postimg.cc/nrdxXyrv/2022-01-19-10-17-52.png)](https://postimg.cc/GTsVNSk2)
-[![2022-01-19-10-24-29.png](https://i.postimg.cc/KjsY6kPS/2022-01-19-10-24-29.png)](https://postimg.cc/p5zx8dcq)
+[![2022-01-19-10-24-29.png](https://i.postimg.cc/KjsY6kPS/2022-01-19-10-24-29.png)](https://postimg.cc/p5zx8dcq)</br>
+
+Juegos HTML</br>
+[![2022-01-19-10-28-37.png](https://i.postimg.cc/Y0Jv4LhN/2022-01-19-10-28-37.png)](https://postimg.cc/30F8VRjW)
+[![2022-01-19-10-31-41.png](https://i.postimg.cc/xdMVYJ2D/2022-01-19-10-31-41.png)](https://postimg.cc/KKGHDYjJ)
+
+
+
+
+
+
 <!--
 **Lacp18/Lacp18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
