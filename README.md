@@ -25,7 +25,7 @@ Aplicación Móvil para la verificación de Artículos Extraviados IIT.</br>
 
 Aplicación Móvil con conectividad online está diseñada para el Instituto de IIT, la cual permite el almacenamiento online de una base de datos de los artículos que son extraviados y entregados a los encargados de cobe uacj, esta aplicación fue diseñada en el lenguaje JAVA en Android Studio y mediante el código PHP se realiza una conectividad a la base de datos elaborada en MySQL.</br></br>
 
-Base de datos Conchita Rosa</br>
+Base de datos Trabajo escolar</br>
 [![2022-01-19-10-17-52.png](https://i.postimg.cc/nrdxXyrv/2022-01-19-10-17-52.png)](https://postimg.cc/GTsVNSk2)
 [![2022-01-19-10-24-29.png](https://i.postimg.cc/KjsY6kPS/2022-01-19-10-24-29.png)](https://postimg.cc/p5zx8dcq)
 Base de datos creada para un trabajo escolar la cual fue diseñada en MySQL</br>
